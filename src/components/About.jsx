@@ -18,7 +18,7 @@ const About = () => {
             <p>
               First Name: Aymen <br /> Last Name: Bachiri <br /> Age: 24 years{" "}
               <br />
-              Nationality: Algerian <br /> Languages: Arab, English
+              Nationality: Algerian <br /> Languages: Arabic, English
             </p>
           </div>
         </div>
